@@ -1,0 +1,2 @@
+# xiaomi_flash_purchase_website
+模仿练习小米闪购官网
